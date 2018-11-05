@@ -1,5 +1,5 @@
 # OneLineBottles
-10 Green Bottles, sung to you by Google. In one line. Code golf!
+10 Green Bottles, sung to you by Google. In one line. I made this as a challenge.
 ## Requirements
 - Python
 - `py -m pip install gtts`
